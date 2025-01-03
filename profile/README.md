@@ -1,7 +1,7 @@
 ## Arbeitsgruppe DECT-Experimente (DECT Experiments Working Group)
 
 Die ADE ist eine kleine Gruppe Menschen, die gerne mit Telefonie und DECT-Systemen experimentieren.
-Bei fragen sind wir jederzeit unter <ade@dect.network> erreichbar.
+Bei Fragen sind wir jederzeit unter <ade@dect.network> erreichbar.
 
 //
 
